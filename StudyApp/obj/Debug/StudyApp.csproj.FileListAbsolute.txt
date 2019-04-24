@@ -1,0 +1,10 @@
+C:\Users\dpanicker\source\repos\StudyApp\StudyApp\bin\Debug\StudyApp.exe.config
+C:\Users\dpanicker\source\repos\StudyApp\StudyApp\bin\Debug\StudyApp.exe
+C:\Users\dpanicker\source\repos\StudyApp\StudyApp\bin\Debug\StudyApp.pdb
+C:\Users\dpanicker\source\repos\StudyApp\StudyApp\obj\Debug\StudyApp.csprojAssemblyReference.cache
+C:\Users\dpanicker\source\repos\StudyApp\StudyApp\obj\Debug\StudyApp.csproj.CoreCompileInputs.cache
+C:\Users\dpanicker\source\repos\StudyApp\StudyApp\obj\Debug\StudyApp.exe
+C:\Users\dpanicker\source\repos\StudyApp\StudyApp\obj\Debug\StudyApp.pdb
+C:\Users\dpanicker\source\repos\StudyApp\StudyApp\bin\Debug\System.ValueTuple.dll
+C:\Users\dpanicker\source\repos\StudyApp\StudyApp\bin\Debug\System.ValueTuple.xml
+C:\Users\dpanicker\source\repos\StudyApp\StudyApp\obj\Debug\StudyApp.csproj.CopyComplete
